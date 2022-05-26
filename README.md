@@ -1,5 +1,4 @@
-## Hi, I'm Vira👋
-
+<img src="https://raw.githubusercontent.com/virarkh/virarkh/master/Rokhmah Vira Santi Banner.png">
 
 <!-- ### Top Repositories
 <a href="https://github.com/virarkh/Churn-Analysis">
