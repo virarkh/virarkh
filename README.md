@@ -1,7 +1,7 @@
 ## Hi, I'm Vira👋
 
 
-### Top Repositories
+<!-- ### Top Repositories
 <a href="https://github.com/virarkh/Churn-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=virarkh&repo=Churn-Analysis&theme=buefy" />
 </a>
@@ -11,7 +11,7 @@
 </a>
 
 ### 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/virarkh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/virakh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='25'>](rokhmahv@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/virarkh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/virakh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='25'>](rokhmahv@gmail.com)   -->
 
 <!--
 **virarkh/virarkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
